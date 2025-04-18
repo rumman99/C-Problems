@@ -1,2 +1,2 @@
-# C-Problems
+# C++ Problems
 Problem Solving with C++
